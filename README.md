@@ -9,7 +9,8 @@
 ### flag_check.sh
 
 #### Description:
-Do the flag statistics of all the alignment results
+Do the flag statistics of all the alignment 
+it is recommended to used with [samtools](http://www.htslib.org/doc/samtools-1.0.html)
 
 #### input:
  sam/bam file
