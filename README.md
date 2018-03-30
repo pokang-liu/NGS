@@ -1,16 +1,19 @@
+# Porkbaby's NGS
+
 ## Introduction
 #### This repository contain:
 -    Several useful tools in Next Generation Sequencing
 -    the code trace of [bwa](https://github.com/lh3/bwa) designed by Li H
-
+## Requirement
+python == 3.6.3
+pysam package
 
 ## Tools
 
 ### flag_check.sh
 
 #### Description:
-Do the flag statistics of all the alignment 
-it is recommended to used with [samtools](http://www.htslib.org/doc/samtools-1.0.html)
+Do the flag statistics of all the alignment results
 
 #### input:
  sam/bam file
