@@ -6,6 +6,8 @@
 -    the code trace of [bwa](https://github.com/lh3/bwa) designed by Li H
 ## Requirement
 python == 3.6.3
+
+
 pysam package
 
 ## Tools
