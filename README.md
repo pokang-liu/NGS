@@ -79,3 +79,5 @@ chr21:8218600-8218803	181	chr21:8218600-8218803	44	0	*	=	44	0	AACCCATATACTAGACAT
 ### code trace for [bwa](https://github.com/lh3/bwa)
 -    for worker1
 -    for worker2
+-    the data structure in bwa which store the .ann .amb .fa files 
+-    see [wiki](https://github.com/porkbaby/NGS/wiki)
