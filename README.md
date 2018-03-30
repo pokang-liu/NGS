@@ -8,7 +8,7 @@
 python == 3.6.3
 
 
-pysam package
+[pysam package](http://pysam.readthedocs.io/en/latest/api.html)
 
 ## Tools
 
