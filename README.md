@@ -3,7 +3,7 @@
 ## Introduction
 #### This repository contain:
 -    Several useful tools in Next Generation Sequencing
--    the code trace of [bwa](https://github.com/lh3/bwa) designed by Li H (see wiki)
+-    the code trace of [bwa](https://github.com/lh3/bwa) designed by Li H (see [wiki](https://github.com/porkbaby/NGS/wiki))
 ## Requirement
 python == 3.6.3
 
